@@ -40,7 +40,7 @@ It is a collection of small personal projects that I have been working on over t
 - [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
 
 ### HTB 
-I have a great interest in ethical hacking, so here I upload what I am learning while I do Hack The Box machines.
+I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
 
-- [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB.
-- [HTB-tmux](https://github.com/R-kill-9/HTB-tmux) Script for creating an special directory for HTB.
+- [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
+- [HTB-tmux](https://github.com/R-kill-9/HTB-tmux) Script for creating an special directory for ethical hacking.
