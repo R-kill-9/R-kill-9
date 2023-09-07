@@ -43,4 +43,4 @@ It is a collection of small personal projects that I have been working on over t
 I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
-- [HTB-tmux](https://github.com/R-kill-9/HTB-tmux) Script for creating an special directory for ethical hacking.
+- [HTB-tmux](https://github.com/R-kill-9/HTB_tmux) Script for creating an special directory for ethical hacking.
