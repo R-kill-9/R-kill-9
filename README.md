@@ -39,6 +39,7 @@ It is a collection of small personal projects that I have been working on over t
 - [Calculator](https://github.com/R-kill-9/Calculator) Basic calculator in Python with a hacking mode.
 - [SobreFIBiendo](https://github.com/R-kill-9/SobreFibiendo) Very simple terminal game about FIB in 2020.
 - [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
+- [autojohn](https://github.com/R-kill-9/autojohn) Automatization script in python for testing different wordlists with john.
 
 ### HTB 
 I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
