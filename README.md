@@ -30,6 +30,7 @@ Here are some projects done with other classmates during the degree.
 
 - [car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack) Project of the subject PTI
 - [MasterMind](https://github.com/R-kill-9/MasterMind) Project of the subject PROP
+- [AWS-CloudGoat](https://github.com/R-kill-9/AWS-CloudGoat)  Write-Up for some CloudGoat laboratories. They're done in Catalan. 
 
 
 ### Personal Projects
