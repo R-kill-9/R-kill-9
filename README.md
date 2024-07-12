@@ -34,7 +34,7 @@ Here are some projects done with other classmates during the degree.
 
 
 ### Personal Projects
-It is a collection of small personal projects that I have been working on over time to improve my skills in different fields such as programming, ethical hacking, etc.
+This is a collection of small personal projects that I have been working on over time to improve my skills in different fields such as programming, ethical hacking, etc.
 
 - [Intruder](https://github.com/R-kill-9/Intruder) Program designed to simplify ethical hacking intrusion.
 - [Calculator](https://github.com/R-kill-9/Calculator) Basic calculator in Python with a hacking mode.
@@ -47,3 +47,4 @@ I have a great interest in ethical hacking, so here I upload what I am learning 
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
 - [HTB-tmux](https://github.com/R-kill-9/HTB_tmux) Script for creating an special directory for ethical hacking.
+- [HTB-WriteUps](https://github.com/R-kill-9/HTB-WriteUps) Write Ups of some HTB machines.
