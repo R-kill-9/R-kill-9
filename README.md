@@ -42,7 +42,7 @@ This is a collection of small personal projects that I have been working on over
 - [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
 - [autojohn](https://github.com/R-kill-9/autojohn) Automatization script in python for testing different wordlists with john.
 
-### HTB 
+### Ethical Hacking 
 I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
