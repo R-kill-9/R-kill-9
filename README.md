@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 
 
 ## Repositories Information
+
+### Ethical Hacking 
+I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
+
+- [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
+- [HTB-tmux](https://github.com/R-kill-9/HTB_tmux) Script for creating an special directory for ethical hacking.
+- [HTB-WriteUps](https://github.com/R-kill-9/HTB-WriteUps) Write Ups of some HTB machines.
+
+  
 ### UPC-FIB-Notes
 In these repositories, you can find some notes and practices that I did during my degree in FIB in the branch of Information Technologies.
 
@@ -43,9 +52,4 @@ This is a collection of small personal projects that I have been working on over
 - [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
 - [autojohn](https://github.com/R-kill-9/autojohn) Automatization script in python for testing different wordlists with john.
 
-### Ethical Hacking 
-I have a great interest in ethical hacking, so here I upload what I am learning while I do HTB or THM machines.
 
-- [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for HTB and THM.
-- [HTB-tmux](https://github.com/R-kill-9/HTB_tmux) Script for creating an special directory for ethical hacking.
-- [HTB-WriteUps](https://github.com/R-kill-9/HTB-WriteUps) Write Ups of some HTB machines.
