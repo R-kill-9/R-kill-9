@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I have a great interest in ethical hacking, so here I upload what I am learning while I do hacking labs.
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for Ethical Hacking.
-- [HTB-WriteUps](https://github.com/R-kill-9/HTB-WriteUps) Write-Ups of some machines from various platforms.
-- [HTB-tmux](https://github.com/R-kill-9/HTB_tmux) Script for creating an special directory for ethical hacking.
+- [WriteUps](https://github.com/R-kill-9/WriteUps) Write-Ups of some machines from various platforms.
+- [tmux-script](https://github.com/R-kill-9/tmux-script) Script for creating an special directory for ethical hacking.
 
 
   
