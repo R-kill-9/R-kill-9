@@ -21,8 +21,14 @@ I have a great interest in ethical hacking, so here I upload what I am learning 
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for Ethical Hacking.
 - [WriteUps](https://github.com/R-kill-9/Write-Ups) Write-Ups of some machines from various platforms.
-- [tmux-script](https://github.com/R-kill-9/tmux-script) Script for creating an special directory for ethical hacking.
+- [kill-xmlprc](https://github.com/R-kill-9/Intruder)Exploit script written in Python for brute-forcing WordPress XML-RPC authentication using a username and password wordlist.
+- [kill-john](https://github.com/R-kill-9/autojohn) Automatization script in Python for testing different wordlists with John The Ripper.
+- [kill-Intruder](https://github.com/R-kill-9/Intruder) Script in Python designed to simplify ethical hacking intrusion.
 
+### Tmux Configuration
+A personalized tmux setup designed to optimize your workflow while working on ethical hacking tasks. 
+- [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
+- [tmux-script](https://github.com/R-kill-9/tmux-script) Script for creating an special directory for ethical hacking.
 
   
 ### UPC-FIB-Notes
@@ -45,12 +51,11 @@ Here are some projects done with other classmates during the degree.
 
 
 ### Personal Projects
-This is a collection of small personal projects that I have been working on over time to improve my skills in different fields such as programming, ethical hacking, etc.
+This is a collection of small personal projects that I have worked on for fun, with the aim of improving my programming skills.
 
-- [Intruder](https://github.com/R-kill-9/Intruder) Program designed to simplify ethical hacking intrusion.
 - [Calculator](https://github.com/R-kill-9/Calculator) Basic calculator in Python with a hacking mode.
 - [SobreFIBiendo](https://github.com/R-kill-9/SobreFibiendo) Very simple terminal game about FIB in 2020.
-- [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
-- [autojohn](https://github.com/R-kill-9/autojohn) Automatization script in python for testing different wordlists with john.
+
+
 
 
