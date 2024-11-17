@@ -21,9 +21,9 @@ I have a great interest in ethical hacking, so here I upload what I am learning 
 
 - [HTB-Notes](https://github.com/R-kill-9/HTB-Notes) Useful notes for Ethical Hacking.
 - [WriteUps](https://github.com/R-kill-9/Write-Ups) Write-Ups of some machines from various platforms.
-- [kill-xmlprc](https://github.com/R-kill-9/Intruder)Exploit script written in Python for brute-forcing WordPress XML-RPC authentication using a username and password wordlist.
-- [kill-john](https://github.com/R-kill-9/autojohn) Automatization script in Python for testing different wordlists with John The Ripper.
-- [kill-Intruder](https://github.com/R-kill-9/Intruder) Script in Python designed to simplify ethical hacking intrusion.
+- [kill-xmlprc](https://github.com/R-kill-9/kill-xmlprc)Exploit script written in Python for brute-forcing WordPress XML-RPC authentication using a username and password wordlist.
+- [kill-john](https://github.com/R-kill-9/kill-john) Automatization script in Python for testing different wordlists with John The Ripper.
+- [Intruder](https://github.com/R-kill-9/Intruder) Script in Python designed to simplify ethical hacking intrusion.
 
 ### Tmux Configuration
 A personalized tmux setup designed to optimize your workflow while working on ethical hacking tasks. 
