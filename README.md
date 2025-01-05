@@ -13,49 +13,57 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Repositories Overview
 
-## Repositories Information
+### **Ethical Hacking**
 
-### Ethical Hacking 
-I have a great interest in ethical hacking, so here I upload what I am learning while I do hacking labs.
+I am deeply passionate about ethical hacking, and this section showcases my learning journey through various hacking labs and self-driven projects:
 
-- [Hacking-Notes](https://github.com/R-kill-9/Hacking-Notes) Useful notes for Ethical Hacking.
-- [WriteUps](https://github.com/R-kill-9/Write-Ups) Write-Ups of some machines from various platforms.
-- [kill-xmlrpc](https://github.com/R-kill-9/kill-xmlrpc)Exploit script written in Python for brute-forcing WordPress XML-RPC authentication using a username and password wordlist.
-- [kill-john](https://github.com/R-kill-9/kill-john) Automatization script in Python for testing different wordlists with John The Ripper.
-- [Intruder](https://github.com/R-kill-9/Intruder) Script in Python designed to simplify ethical hacking intrusion.
+- **[Hacking-Notes](https://github.com/R-kill-9/Hacking-Notes):** A comprehensive collection of notes and references to support ethical hacking practices.
+- **[WriteUps](https://github.com/R-kill-9/Write-Ups):** Detailed write-ups for various machines and challenges from platforms like HackTheBox, TryHackMe, and others.
+- **[kill-xmlrpc](https://github.com/R-kill-9/kill-xmlrpc):** A Python exploit script for brute-forcing WordPress XML-RPC authentication using wordlists for usernames and passwords.
+- **[kill-john](https://github.com/R-kill-9/kill-john):** Automation script in Python for testing different wordlists with John The Ripper, streamlining password cracking tasks.
+- **[Intruder](https://github.com/R-kill-9/Intruder):** A Python script designed to assist with intrusion-related tasks in ethical hacking, making workflows more efficient.
 
-### Tmux Configuration
-A personalized tmux setup designed to optimize your workflow while working on ethical hacking tasks. 
-- [tmux.conf](https://github.com/R-kill-9/tmux.conf) Customized configuration for tmux.
-- [tmux-script](https://github.com/R-kill-9/tmux-script) Script for creating an special directory for ethical hacking.
+---
 
-  
-### UPC-FIB-Notes
-In these repositories, you can find some notes and practices that I did during my degree in FIB in the branch of Information Technologies.
+### **Tmux Configuration**
 
-- [PI-FIB](https://github.com/R-kill-9/PI-FIB) Protocols de la informació
-- [TXC-FIB](https://github.com/R-kill-9/TXC-FIB) Tecnologies de xarxes de computadors
-- [CPD-FIB](https://github.com/R-kill-9/CPD-FIB) Centres de Processament de dades
-- [SOA-FIB](https://github.com/R-kill-9/SOA-FIB) Sistemes operatius avançats
-- [SDX-FIB](https://github.com/R-kill-9/SDX-FIB) Sistemes distribuits en xarxa
-- [C-FIB](https://github.com/R-kill-9/C-FIB) Criptografia
+To enhance productivity and streamline workflows during ethical hacking sessions, I’ve created a personalized `tmux` setup. This configuration is designed to simplify terminal management.
 
-### UPC-FIB-Projects
-Here are some projects done with other classmates during the degree.
+- **[tmux.conf](https://github.com/R-kill-9/tmux.conf):** A custom `tmux` configuration file tailored for ethical hacking workflows.
+- **[tmux-script](https://github.com/R-kill-9/tmux-script):** A script that automates the creation of directories and environments specifically for ethical hacking projects.
 
-- [car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack) Project of the subject PTI
-- [MasterMind](https://github.com/R-kill-9/MasterMind) Project of the subject PROP
-- [AWS-Hacking-Methodology](https://github.com/R-kill-9/AWS-Hacking-Methodology)  Hacking Methodology focused on AWS infraestructures. It's written in Catalan. 
-- [AWS-CloudGoat](https://github.com/R-kill-9/AWS-CloudGoat)  Write-Up for some CloudGoat laboratories, done for my TFG. They're written in Catalan. 
+---
 
+### **UPC-FIB Notes**
 
-### Personal Projects
-This is a collection of small personal projects that I have worked on for fun, with the aim of improving my programming skills.
+This section contains organized notes and practices I developed during my studies at UPC’s Facultat d’Informàtica de Barcelona (FIB), specializing in Information Technologies. Each repository corresponds to a subject within the program.
 
-- [Calculator](https://github.com/R-kill-9/Calculator) Basic calculator in Python with a hacking mode.
-- [SobreFIBiendo](https://github.com/R-kill-9/SobreFibiendo) Very simple terminal game about FIB in 2020.
+- **[PI-FIB](https://github.com/R-kill-9/PI-FIB):** Notes and practices for _Protocols de la Informació_.
+- **[TXC-FIB](https://github.com/R-kill-9/TXC-FIB):** Resources for _Tecnologies de Xarxes de Computadors_.
+- **[CPD-FIB](https://github.com/R-kill-9/CPD-FIB):** Materials for _Centres de Processament de Dades_.
+- **[SOA-FIB](https://github.com/R-kill-9/SOA-FIB):** Advanced operating systems (_Sistemes Operatius Avançats_).
+- **[SDX-FIB](https://github.com/R-kill-9/SDX-FIB):** Distributed systems in networks (_Sistemes Distribuits en Xarxa_).
+- **[C-FIB](https://github.com/R-kill-9/C-FIB):** Cryptography course notes (_Criptografia_).
 
+---
 
+### **UPC-FIB Projects**
 
+Here you’ll find collaborative projects completed during my degree at FIB. These projects often involved teamwork and applying academic knowledge to solve practical challenges.
+
+- **[car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack):** A full-stack project for the subject _PTI_.
+- **[MasterMind](https://github.com/R-kill-9/MasterMind):** A classic _PROP_ subject project, featuring an implementation of the Mastermind game.
+- **[AWS-Hacking-Methodology](https://github.com/R-kill-9/AWS-Hacking-Methodology):** A methodology for testing and securing AWS infrastructures. Written in Catalan.
+- **[AWS-CloudGoat](https://github.com/R-kill-9/AWS-CloudGoat):** Write-ups for several _CloudGoat_ labs, developed for my final thesis (_TFG_). Written in Catalan.
+
+---
+
+### **Personal Projects**
+
+This section highlights personal projects I have worked on for fun and skill-building. These projects reflect my creativity and dedication to enhancing my programming expertise.
+
+- **[Calculator](https://github.com/R-kill-9/Calculator):** A basic Python calculator featuring a fun "hacking mode" to add a unique twist.
+- **[SobreFIBiendo](https://github.com/R-kill-9/SobreFibiendo):** A simple terminal-based game inspired by FIB life in 2020.
 
