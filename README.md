@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Repositories Overview
 
-### 💻**Ethical Hacking**
+### 💻 **Ethical Hacking**
 
 I am deeply passionate about ethical hacking, and this section showcases my learning journey through various hacking labs and self-driven projects:
 
@@ -27,7 +27,7 @@ I am deeply passionate about ethical hacking, and this section showcases my lear
 
 ---
 
-### 🛠️**Tmux Configuration**
+### 🛠️ **Tmux Configuration**
 
 To enhance productivity and streamline workflows during ethical hacking sessions, I’ve created a personalized `tmux` setup. This configuration is designed to simplify terminal management.
 
@@ -36,7 +36,7 @@ To enhance productivity and streamline workflows during ethical hacking sessions
 
 ---
 
-### 🎓**UPC-FIB Notes**
+### 🎓 **UPC-FIB Notes**
 
 This section contains organized notes and practices I developed during my studies at UPC’s Facultat d’Informàtica de Barcelona (FIB), specializing in Information Technologies. Each repository corresponds to a subject within the program.
 
@@ -49,7 +49,7 @@ This section contains organized notes and practices I developed during my studie
 
 ---
 
-### 💡**UPC-FIB Projects**
+### 💡 **UPC-FIB Projects**
 
 Here you’ll find collaborative projects completed during my degree at FIB. These projects often involved teamwork and applying academic knowledge to solve practical challenges.
 
@@ -60,7 +60,7 @@ Here you’ll find collaborative projects completed during my degree at FIB. The
 
 ---
 
-### 🗂️**Personal Projects**
+### 🗂️ **Personal Projects**
 
 This section highlights personal projects I have worked on for fun and skill-building. These projects reflect my creativity and dedication to enhancing my programming expertise.
 
