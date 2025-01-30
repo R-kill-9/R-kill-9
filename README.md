@@ -27,13 +27,14 @@ I am deeply passionate about ethical hacking, and this section showcases my lear
 
 ---
 
-### 🛠️ **Tmux Configuration**
+### 🛠️ Tmux and Zsh Configuration
 
-To enhance productivity and streamline workflows during ethical hacking sessions, I’ve created a personalized `tmux` setup. This configuration is designed to simplify terminal management.
+To enhance productivity and streamline workflows during ethical hacking sessions, I’ve created some personalized setups.
 
 - **[tmux.conf](https://github.com/R-kill-9/tmux.conf):** A custom `tmux` configuration file tailored for ethical hacking workflows.
 - **[tmux-script](https://github.com/R-kill-9/tmux-script):** A script that automates the creation of directories and environments specifically for ethical hacking projects.
-
+- **[Terminal-Configuration](https://github.com/R-kill-9/Terminal-Configuration):**  I’ve crafted a custom Zsh configuration to make my terminal environment efficient and user-friendly.
+  
 ---
 
 ### 🎓 **UPC-FIB Notes**
