@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💻 **Ethical Hacking**
 
-I am deeply passionate about ethical hacking, and this section showcases my learning journey through various hacking labs and self-driven projects:
+This is where I document my journey into ethical hacking. From labs and write-ups to custom scripts, these projects reflect what I’ve learned and built along the way:
 
 - **[Hacking-Notes](https://github.com/R-kill-9/Hacking-Notes):** A comprehensive collection of notes and references to support ethical hacking practices.
 - **[WriteUps](https://github.com/R-kill-9/Write-Ups):** Detailed write-ups for various machines and challenges from platforms like HackTheBox, TryHackMe, and others.
@@ -29,7 +29,7 @@ I am deeply passionate about ethical hacking, and this section showcases my lear
 
 ### 🛠️ Tmux and Zsh Configuration
 
-To enhance productivity and streamline workflows during ethical hacking sessions, I’ve created some personalized setups.
+To boost productivity while working in terminal environments, I’ve set up some custom configurations that make my workflow smoother and more efficient:
 
 - **[tmux.conf](https://github.com/R-kill-9/tmux.conf):** A custom `tmux` configuration file tailored for ethical hacking workflows.
 - **[tmux-script](https://github.com/R-kill-9/tmux-script):** A script that automates the creation of directories and environments specifically for ethical hacking projects.
@@ -39,7 +39,7 @@ To enhance productivity and streamline workflows during ethical hacking sessions
 
 ### 🎓 **UPC-FIB Notes**
 
-This section contains organized notes and practices I developed during my studies at UPC’s Facultat d’Informàtica de Barcelona (FIB), specializing in Information Technologies. Each repository corresponds to a subject within the program.
+These are notes and practice materials I created while studying at the Universitat Politècnica de Catalunya (UPC), at the Faculty of Informatics of Barcelona (FIB). Each repo is tied to a specific course:
 
 - **[PI-FIB](https://github.com/R-kill-9/PI-FIB):** Notes and practices for _Protocols de la Informació_.
 - **[TXC-FIB](https://github.com/R-kill-9/TXC-FIB):** Resources for _Tecnologies de Xarxes de Computadors_.
@@ -52,7 +52,7 @@ This section contains organized notes and practices I developed during my studie
 
 ### 💡 **UPC-FIB Projects**
 
-Here you’ll find collaborative projects completed during my degree at FIB. These projects often involved teamwork and applying academic knowledge to solve practical challenges.
+These are team projects I worked on during my time at FIB. They represent real-world challenges solved using the knowledge gained from different subjects:
 
 - **[car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack):** A full-stack project for the subject _PTI_.
 - **[MasterMind](https://github.com/R-kill-9/MasterMind):** A classic _PROP_ subject project, featuring an implementation of the Mastermind game.
@@ -63,7 +63,7 @@ Here you’ll find collaborative projects completed during my degree at FIB. The
 
 ### 🗂️ **Personal Projects**
 
-This section highlights personal projects I have worked on for fun and skill-building. These projects reflect my creativity and dedication to enhancing my programming expertise.
+These are fun side projects I’ve built to explore ideas, sharpen my skills, or just for the challenge:
 
 - **[Calculator](https://github.com/R-kill-9/Calculator):** A basic Python calculator featuring a fun "hacking mode" to add a unique twist.
 - **[SobreFIBiendo](https://github.com/R-kill-9/SobreFibiendo):** A simple terminal-based game inspired by FIB life in 2020.
