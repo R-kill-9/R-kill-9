@@ -13,13 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Repositories Overview</h2>
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=R-kill-9&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=R-kill-9&theme=aura_dark&hide_border=false)<br/>
-
----
+# Repositories Overview
 
 ### 💻 **Ethical Hacking**
 
