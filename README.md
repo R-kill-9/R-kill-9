@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Repositories Overview
+<h2 align="left">Repositories Overview</h2>
 
 ###
 
@@ -23,11 +23,9 @@ Here are some ideas to get you started:
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R-kill-9/R-kill-9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R-kill-9/R-kill-9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/R-kill-9/R-kill-9/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/R-kill-9/R-kill-9/output/snake.svg" alt="Snake animation" />
 
 ###
 
