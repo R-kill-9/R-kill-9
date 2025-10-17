@@ -22,7 +22,6 @@ This is where I document my journey into ethical hacking. From labs and write-up
 - **[Hacking-Notes](https://github.com/R-kill-9/Hacking-Notes):** A comprehensive collection of notes and references to support ethical hacking practices.
 - **[WriteUps](https://github.com/R-kill-9/Write-Ups):** Detailed write-ups for various machines and challenges from platforms like HackTheBox, TryHackMe, and others.
 - **[kill-xmlrpc](https://github.com/R-kill-9/kill-xmlrpc):** A Python exploit script for brute-forcing WordPress XML-RPC authentication using wordlists for usernames and passwords.
-- **[kill-john](https://github.com/R-kill-9/kill-john):** Automation script in Python for testing different wordlists with John The Ripper, streamlining password cracking tasks.
 - **[Intruder](https://github.com/R-kill-9/Intruder):** A Python script designed to assist with intrusion-related tasks in ethical hacking, making workflows more efficient.
 
 ---
