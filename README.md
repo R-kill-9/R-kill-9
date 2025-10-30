@@ -32,7 +32,7 @@ To boost productivity while working in terminal environments, I’ve set up some
 
 - **[tmux.conf](https://github.com/R-kill-9/tmux.conf):** A custom  configuration file tailored for ethical hacking workflows.
 - **[tmux-script](https://github.com/R-kill-9/tmux-script):** A `tmux` script that automates the creation of directories and environments specifically for ethical hacking projects.
-- **[xfce4-mkt](https://github.com/R-kill-9/xfce4-mkt):**  Bash script that automates the creation of a structured workspace for ethical hacking projects.
+- **[qterminal-mkt](https://github.com/R-kill-9/qterminal-mkt):**  Bash script that automates the creation of a structured workspace for ethical hacking projects.
 - **[Terminal-Configuration](https://github.com/R-kill-9/Terminal-Configuration):**  I’ve crafted a custom Zsh configuration to make my terminal environment efficient and user-friendly.
   
 ---
