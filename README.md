@@ -37,6 +37,18 @@ To boost productivity while working in terminal environments, I’ve set up some
   
 ---
 
+### 💡 **UPC-FIB Projects**
+
+These are team projects I worked on during my time at FIB. They represent real-world challenges solved using the knowledge gained from different subjects:
+
+- **[car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack):** A full-stack project for the subject _PTI_.
+- **[MasterMind](https://github.com/R-kill-9/MasterMind):** A classic _PROP_ subject project, featuring an implementation of the Mastermind game.
+- **[AWS-Hacking-Methodology](https://github.com/R-kill-9/AWS-Hacking-Methodology):** A methodology for testing and securing AWS infrastructures. Written in Catalan.
+- **[AWS-CloudGoat](https://github.com/R-kill-9/AWS-CloudGoat):** Write-ups for several _CloudGoat_ labs, developed for my final thesis (_TFG_). Written in Catalan.
+
+---
+
+
 ### 🎓 **UPC-FIB Notes**
 
 These are notes and practice materials I created while studying at the Universitat Politècnica de Catalunya (UPC), at the Faculty of Informatics of Barcelona (FIB). Each repo is tied to a specific course:
@@ -50,16 +62,6 @@ These are notes and practice materials I created while studying at the Universit
 
 ---
 
-### 💡 **UPC-FIB Projects**
-
-These are team projects I worked on during my time at FIB. They represent real-world challenges solved using the knowledge gained from different subjects:
-
-- **[car-tracking-fullstack](https://github.com/R-kill-9/car-tracking-fullstack):** A full-stack project for the subject _PTI_.
-- **[MasterMind](https://github.com/R-kill-9/MasterMind):** A classic _PROP_ subject project, featuring an implementation of the Mastermind game.
-- **[AWS-Hacking-Methodology](https://github.com/R-kill-9/AWS-Hacking-Methodology):** A methodology for testing and securing AWS infrastructures. Written in Catalan.
-- **[AWS-CloudGoat](https://github.com/R-kill-9/AWS-CloudGoat):** Write-ups for several _CloudGoat_ labs, developed for my final thesis (_TFG_). Written in Catalan.
-
----
 
 ### 🗂️ **Personal Projects**
 
