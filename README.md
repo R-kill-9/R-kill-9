@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 This is where I document my journey into ethical hacking. From labs and write-ups to custom scripts, these projects reflect what I’ve learned and built along the way:
 
 - **[Hacking-Notes](https://github.com/R-kill-9/Hacking-Notes):** A comprehensive collection of notes and references to support ethical hacking practices.
+- **[Exploit-Automation](https://github.com/R-kill-9/Exploit-Automation):** A collection of custom scripts designed to automate vulnerability exploitation, blind data extraction, enumeration and security testing workflows. 
 - **[WriteUps](https://github.com/R-kill-9/Write-Ups):** Detailed write-ups for various machines and challenges from platforms like HackTheBox, TryHackMe, and others.
 - **[kill-xmlrpc](https://github.com/R-kill-9/kill-xmlrpc):** A Python exploit script for brute-forcing WordPress XML-RPC authentication using wordlists for usernames and passwords.
 - **[Intruder](https://github.com/R-kill-9/Intruder):** A Python script designed to assist with intrusion-related tasks in ethical hacking, making workflows more efficient.
